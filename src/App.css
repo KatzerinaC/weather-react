@@ -76,3 +76,16 @@ h3 {
   max-width: 500px;
   margin: 60px auto;
 }
+.App small {
+ text-align: center;
+};
+.App {
+  border: 1px solid #6d3956;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.weather-app-wrapper{
+  max-width: 500px ;
+  margin: 60px auto;
+}
